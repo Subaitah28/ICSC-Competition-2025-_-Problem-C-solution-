@@ -2,7 +2,7 @@
 ICSC 2025 – My Solution : 
 
 This repo has my solution for the International Computer Science Competition 2025 Qualification Round.
-I worked on the problems, wrote my answers, and put everything into a PDF so it’s easy to share.
+I worked on the problem C: School Massaging App, wrote my answers, and put everything into a PDF so it’s easy to share.
 
 📄 view the solution here :
 
